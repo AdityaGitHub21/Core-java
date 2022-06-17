@@ -19,6 +19,7 @@ public class StaticDemos {
 	}
 	
 
+	
 	public static void main(String[] args) {
 		StaticDemos s=new StaticDemos("Alia",1);
 		StaticDemos s1=new StaticDemos("Allisa",2);
